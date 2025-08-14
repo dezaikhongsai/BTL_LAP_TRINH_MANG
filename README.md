@@ -1,6 +1,9 @@
-### Bài tập lớn lập trình mạng
+# Bài tập lớn lập trình mạng
 
 - CreatedBy : Tuấn Anh
 - CreatedBy : KhoaiNuong
 - CreatedBy : Tung Duong
-- This is khaiND's branch LMAO
+
+- pull code mới trước khi push code
+- Admin merge code
+- Trong quá trình dev có thể pull code nhánh thành viên khác về
