@@ -1,32 +1,87 @@
-# Bài tập lớn lập trình mạng
+# 🚀 Bài Tập Lớn Lập Trình Mạng
 
-## Đề tài : Chưa cập nhật
+## 📋 Đề Tài
 
-Danh sách thành viên :
+> _Chưa cập nhật_
 
-1. Nguyễn Tuấn Anh - B22DCDT019
-2. Nguyễn Tùng Dương - chưa cập nhật
-3. Nguyễn Đức Khải - chứa cập nhật
+---
 
-### Kế hoạch học tập
+## 👨‍💻 Thành Viên Nhóm
 
-1. Mô hình triển khai phần mềm
-   ![alt text](image-1.png)
+| STT | Họ và tên         | MSSV            | Ghi chú |
+| --- | ----------------- | --------------- | ------- |
+| 1   | Nguyễn Tuấn Anh   | B22DCDT019      |         |
+| 2   | Nguyễn Tùng Dương | _Chưa cập nhật_ |         |
+| 3   | Nguyễn Đức Khải   | _Chưa cập nhật_ |         |
 
-- Client <--> Server
+---
 
-![alt text](image.png)
+## 🗓️ Kế Hoạch Học Tập
 
-2. Client (Frontend)
+### 1. Mô Hình Triển Khai Phần Mềm
 
-- Client gửi các request tới server
+<p align="center">
+  <img src="mo_hinh_client_server.png" alt="Mô hình tổng quan" width="500"/>
+</p>
 
-3. Server (Backend)
+- **Client** <--> **Server**
 
-- Server gửi các respone về client
+<p align="center">
+  <img src="ly_thuyet_client_server.png" alt="Client-Server" width="400"/>
+</p>
 
-### I. Tổng quan hệ thống
+### 2. Client (Frontend)
 
-### II. Công nghệ sử dụng
+- Gửi các request tới server.
 
-### III. Hướng dẫn cài đặt
+### 3. Server (Backend)
+
+- Xử lý và gửi các response về client.
+
+---
+
+## I. Tổng Quan Hệ Thống
+
+_(Bổ sung mô tả tổng quan hệ thống tại đây)_
+
+---
+
+## II. Công Nghệ Sử Dụng
+
+- Ngôn ngữ lập trình: _(Cập nhật)_
+- Framework: _(Cập nhật)_
+- Thư viện: _(Cập nhật)_
+
+---
+
+## III. Hướng Dẫn Cài Đặt
+
+1. **Clone repository:**
+   ```bash
+   git clone https://github.com/dezaikhongsai/BTL_LAP_TRINH_MANG.git
+   ```
+2. **Cài đặt dependencies:**
+   ```bash
+   # Ví dụ với Node.js
+   cd ./backend./
+   npm install
+   cd ..
+   cd ./frontend
+   npm install
+   ```
+3. **Chạy ứng dụng:**
+   ```bash
+   # Ví dụ với Node.js
+   cd ./backend
+   npm run dev
+   ```
+
+---
+
+## 📞 Liên Hệ
+
+- Email: [dezaikhongsai10012004@gmail.com](mailto:dezaikhongsai10012004@gmail.com)
+- Github: [dezaikhongsai](https://github.com/dezaikhongsai)
+- Facebook:[https://www.facebook.com/nguyen.tuan.anh.592841]
+
+---
