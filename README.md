@@ -33,10 +33,19 @@
 ### 2. Client (Frontend)
 
 - Gửi các request tới server.
+- Học các kiến thức liên quan đến reactjs
+- Học các kiến thức liên quan đến call api và map api
+- Đề xuất các thư viện sử dụng: axios , useEffect + useState hoặc ReactQuery(Tanstack)
 
 ### 3. Server (Backend)
 
 - Xử lý và gửi các response về client.
+- OOP cơ bản
+- Cách tổ chức thư mục
+- Các khái niện cơ bản về HTTP methods (GET - POST - PUT - PACTH - DELETE)
+- Chọn bất kỳ một framework backend (Nestjs hoặc Spring boot)
+- Cách kết nối đến csdl (MongoDB/PostgreeSql)
+- Viết API CRUD đơn giản
 
 ---
 
@@ -61,18 +70,21 @@ _(Bổ sung mô tả tổng quan hệ thống tại đây)_
    git clone https://github.com/dezaikhongsai/BTL_LAP_TRINH_MANG.git
    ```
 2. **Cài đặt dependencies:**
+
    ```bash
    # Ví dụ với Node.js
-   cd ./backend./
+   cd .\backend\
    npm install
    cd ..
-   cd ./frontend
+   cd .\frontend\
+
    npm install
    ```
+
 3. **Chạy ứng dụng:**
    ```bash
    # Ví dụ với Node.js
-   cd ./backend
+   cd .\backend\
    npm run dev
    ```
 
