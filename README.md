@@ -62,6 +62,7 @@
 
 - 🔹 **Khái niệm cơ bản:**
   - Hệ quản trị cơ sở dữ liệu **SQL** (_MySQL, PostgreSQL, ..._) và **NoSQL** (_MongoDB, ..._).
+  - Sử dụng docker desktop để sử dụng db
 - 🔹 **Lựa chọn CSDL:**
   - Tùy theo đề tài, lựa chọn hệ quản trị phù hợp.
 - 🔹 **Các thao tác cơ bản:**
@@ -69,8 +70,6 @@
 - 🔹 **Khái niệm nâng cao** _(tìm hiểu thêm nếu dự án cần)_:
   - Database **replica** (MongoDB) / **replication** (PostgreSQL)
   - **Transaction** / **Session** trong database
-
-> 💡 _Hãy đảm bảo hiểu rõ các thao tác cơ bản trước khi triển khai các tính năng nâng cao!_
 
 ---
 
