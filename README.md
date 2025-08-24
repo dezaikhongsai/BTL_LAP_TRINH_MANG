@@ -34,7 +34,7 @@
 
 ---
 
-### 2. 🖥️ Client (Frontend)
+### 2.Client (Frontend)
 
 - Gửi các request tới server.
 - Học các kiến thức liên quan đến **ReactJS**.
@@ -43,7 +43,7 @@
 
 ---
 
-### 3. 🛠️ Server (Backend)
+### 3.Server (Backend)
 
 - Xử lý và gửi các response về client.
 - OOP cơ bản.
@@ -55,22 +55,22 @@
 
 ---
 
-### 4. 🗄️ Database
+### 4.Database
 
-- 🔹 **Khái niệm cơ bản:**
-  - Hệ quản trị cơ sở dữ liệu **SQL** (_MySQL, PostgreSQL, ..._) và **NoSQL** (_MongoDB, ..._).
-  - Sử dụng docker desktop để sử dụng db
-- 🔹 **Lựa chọn CSDL:**
+- **Khái niệm cơ bản:**
+- Hệ quản trị cơ sở dữ liệu **SQL** (_MySQL, PostgreSQL, ..._) và **NoSQL** (_MongoDB, ..._).
+- Sử dụng docker desktop để sử dụng db
+- **Lựa chọn CSDL:**
   - Tùy theo đề tài, lựa chọn hệ quản trị phù hợp.
-- 🔹 **Các thao tác cơ bản:**
-  - Thực hiện các câu lệnh **CRUD** (_Create, Read, Update, Delete_) với **table** (SQL) hoặc **collection** (MongoDB).
-- 🔹 **Khái niệm nâng cao** _(tìm hiểu thêm nếu dự án cần)_:
+- **Các thao tác cơ bản:**
+- Thực hiện các câu lệnh **CRUD** (_Create, Read, Update, Delete_) với **table** (SQL) hoặc **collection** (MongoDB).
+- **Khái niệm nâng cao** _(tìm hiểu thêm nếu dự án cần)_:
   - Database **replica** (MongoDB) / **replication** (PostgreSQL)
   - **Transaction** / **Session** trong database
 
 ---
 
-### 5. 📁 Cấu Trúc Thư Mục Khi Code
+### 5.Cấu Trúc Thư Mục Khi Code
 
 - **Backend:**  
   _Chưa cập nhật_
@@ -79,13 +79,13 @@
 
 ---
 
-## I. 📝 Tổng Quan Hệ Thống
+## I.Tổng Quan Hệ Thống
 
 _(Bổ sung mô tả tổng quan hệ thống tại đây)_
 
 ---
 
-## II. ⚙️ Công Nghệ Sử Dụng
+## II.Công Nghệ Sử Dụng
 
 - Ngôn ngữ lập trình: _(Cập nhật)_
 - Framework: _(Cập nhật)_
@@ -93,7 +93,7 @@ _(Bổ sung mô tả tổng quan hệ thống tại đây)_
 
 ---
 
-## III. 🚦 Hướng Dẫn Cài Đặt
+## III.Hướng Dẫn Cài Đặt
 
 1. **Clone repository:**
    ```bash
@@ -117,7 +117,7 @@ _(Bổ sung mô tả tổng quan hệ thống tại đây)_
 
 ---
 
-## 📞 Liên Hệ
+## Liên Hệ
 
 - Email: [dezaikhongsai10012004@gmail.com](mailto:dezaikhongsai10012004@gmail.com)
 - Github: [dezaikhongsai](https://github.com/dezaikhongsai)
