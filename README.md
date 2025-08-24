@@ -57,9 +57,6 @@
 
 ### 4. 🗄️ Database
 
-> **Database** đóng vai trò trung tâm trong việc lưu trữ và quản lý dữ liệu của hệ thống.  
-> Việc lựa chọn hệ quản trị cơ sở dữ liệu (**SQL**/**NoSQL**) sẽ dựa vào yêu cầu cụ thể của đề tài.
-
 - 🔹 **Khái niệm cơ bản:**
   - Hệ quản trị cơ sở dữ liệu **SQL** (_MySQL, PostgreSQL, ..._) và **NoSQL** (_MongoDB, ..._).
   - Sử dụng docker desktop để sử dụng db
